@@ -1,0 +1,29 @@
+# Environment variables
+.env
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Node modules
+
+npm-debug.log
+
+# Environment variables
+.env
+
+# Build files (if any)
+build/
+dist/
+
+# OS files
+.DS_Store
+
+# Database dump files
+*.sql
+
+# Logs
+logs/
+
